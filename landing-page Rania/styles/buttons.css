@@ -1,0 +1,16 @@
+.btn-blue {
+  color: black; 
+  background-color: aliceblue;
+  padding: 10px 16px;
+  border-radius: 10px;
+  font-weight: bolder;
+  border: 1px solid blue;
+  transition:  1s;
+}
+
+.btn-blue:hover {
+  background-color: black;
+  color: grey;
+  transition: 1s;
+}
+
